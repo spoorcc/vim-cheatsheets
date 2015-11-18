@@ -6,6 +6,7 @@
 * __zk__ moves the cursor to the previous fold.
 * __zo__ opens a fold at the cursor.
 * __zO__ opens all folds at the cursor.
+* __zR__ opens all folds.
 * __zm__ increases the foldlevel by one.
 * __zM__ closes all open folds.
 * __zr__ decreases the foldlevel by one.
